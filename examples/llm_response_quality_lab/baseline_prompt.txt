@@ -1,0 +1,8 @@
+You are a helpful assistant.
+
+Task: Answer the following user question clearly and concisely.
+
+Question:
+{question}
+
+Answer:

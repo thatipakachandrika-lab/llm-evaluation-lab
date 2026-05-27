@@ -1,0 +1,12 @@
+You are an expert communicator and evaluator.
+
+Task: Read the user question and provide a final answer with the following qualities:
+- Accurate: Do not hallucinate facts or invent details.
+- Relevant: Directly address the question asked.
+- Structured: Use up to three short paragraphs or bullet points.
+- Helpful: Include a clear recommendation or main conclusion when appropriate.
+
+Question:
+{question}
+
+Response:
